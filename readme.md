@@ -1,7 +1,7 @@
 <img src ="background.jpg" >
 
 # 💫 About Me:
-🔭 I’m currently working on my own<br>👯 I’m looking someone to collaborate me<br>🌱 I’m currently learning Java<br>💬 Ask me about<br>
+ <br> Graduating Student here!<br> I’m currently learning Java<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
