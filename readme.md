@@ -16,7 +16,10 @@
 
 # 📊 E-Certificates:
 <p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p>
-![image](https://github.com/Rayu21/Rayu21/assets/142669791/a423f7a6-a507-411c-ba9e-7ed42548541e)
+<p><a href="https://github.com/Rayu21/Rayu21/assets/142669791/a423f7a6-a507-411c-ba9e-7ed42548541e"> SQL and Relational Database 101 </a></p>
+<p><a href="https://drive.google.com/file/d/12Aj8mOx6XfKl_-KDJ1Q1iFMI6W4XYLD1/view?usp=sharing"> Oracle AI Foundation </a></p>
+
+
 
 
 ### ✍️ Random Dev Quote
