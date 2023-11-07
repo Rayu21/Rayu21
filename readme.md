@@ -16,6 +16,8 @@
 
 # 📊 E-Certificates:
 <p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p>
+![image](https://github.com/Rayu21/Rayu21/assets/142669791/a423f7a6-a507-411c-ba9e-7ed42548541e)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
