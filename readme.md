@@ -29,7 +29,7 @@
             <td>2023-11-11</td>
         </tr>
         <tr>
-            <td><a href="[https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing](https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35)" target="_blank">DataCamp: Introduction To Python</a></td>
+            <td><a href="https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing](https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35" target="_blank">DataCamp: Introduction To Python</a></td>
             <td>2023-11-12</td>
         </tr>
         <tr>
