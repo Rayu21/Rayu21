@@ -16,17 +16,27 @@
 
 # 📊 E-Certificates:
 
-<center>
-<div>
-<table style="width:100%">
-  <tr>
-    <td>Certificate</td>
-  </tr>
-  <tr>
-    <td><p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p></td></tr>
-    <tr><td><p><a href="https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing"> SQL and Relational Database 101 </a></p></td></tr>
-    <tr><td><p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35"> Oracle AI Foundation </a></p></td></tr>  
-</table>
+
+<div align=center>
+<h2 align="center">Certificates</h2>
+    <table border="1">
+        <tr>
+            <th>Certificate Title</th>
+            <th>Date</th>
+        </tr>
+        <tr>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e" target="_blank">Understanding Data Engineering</a></td>
+            <td>2023-11-11</td>
+        </tr>
+        <tr>
+            <td><a href="[https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing](https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35)" target="_blank">DataCamp: Introduction To Python</a></td>
+            <td>2023-11-12</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35" target="_blank">Oracle AI Foundation</a></td>
+            <td>2022-04-27</td>
+        </tr>
+    </table>
 </div>
 
 
