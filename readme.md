@@ -18,19 +18,17 @@
 
 <table style="width:100%">
   <tr>
-    <td><p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p></td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td>Certificate</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td>14</td>
-    <td>10</td>
+    <td><td><p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p></td></td>
+    <td><p><a href="https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing"> SQL and Relational Database 101 </a></p></td>
+    <td><p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35"> Oracle AI Foundation </a></p></td>
   </tr>
 </table>
-<p><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e">Understanding Data Engineering</a></p>
-<p><a href="https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing"> SQL and Relational Database 101 </a></p>
-<p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35"> Oracle AI Foundation </a></p>
+
+
+
 
 
 
