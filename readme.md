@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e" target="_blank">Understanding Data Engineering</a></td>
-            <td>2022-04-27</td>
+            <td>2022-05-02</td>
         </tr>
         <tr>
             <td><a href="https://courses.cognitiveclass.ai/certificates/028551f5ebd4442292de8c180ab3c87c" target="_blank">SQL and Relational Databases 101</a></td>
