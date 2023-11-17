@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35" target="_blank">Oracle AI Foundation</a></td>
-            <td>2022-04-27</td>
+            <td>2023-11-11</td>
         </tr>
     </table>
 </div>
