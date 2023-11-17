@@ -16,6 +16,7 @@
 
 # 📊 E-Certificates:
 
+<center>
 <table style="width:100%">
   <tr>
     <td>Certificate</td>
@@ -25,6 +26,7 @@
     <tr><td><p><a href="https://drive.google.com/file/d/1LUEmJLxpU6aA_k2rxmu0gZ2-KP-pmkeD/view?usp=sharing"> SQL and Relational Database 101 </a></p></td></tr>
     <tr><td><p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35"> Oracle AI Foundation </a></p></td></tr>  
 </table>
+</center>
 
 
 
