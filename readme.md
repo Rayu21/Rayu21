@@ -26,15 +26,15 @@
         </tr>
         <tr>
             <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfd1585de431dae42bb1baa3a1e72defdb07fa6e" target="_blank">Understanding Data Engineering</a></td>
-            <td>2023-11-11</td>
+            <td>2022-04-27</td>
         </tr>
         <tr>
             <td><a href="https://courses.cognitiveclass.ai/certificates/028551f5ebd4442292de8c180ab3c87c" target="_blank">SQL and Relational Databases 101</a></td>
-            <td>2023-11-12</td>
+            <td>2023-11-07</td>
         </tr>
         <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=562005273D5EDF5006C8C6360D2F44B9AED8222D3FFAE261BDC57732B5EA6B35" target="_blank">Oracle AI Foundation</a></td>
-            <td>2023-11-11</td>
+            <td>2023-11-07</td>
         </tr>
     </table>
 </div>
